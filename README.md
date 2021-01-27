@@ -1,8 +1,7 @@
-# Kato Discord Bot
+# Kato Whatsapp Bot
 
 [![Support via Trakteer](https://img.shields.io/badge/Support-me!-green)](https://trakteer.id/katowproject)
 [![License](https://img.shields.io/badge/LICENSE-CC--BY--SA--4.0-green)](https://github.com/KatowProject/Kato-Bot/blob/master/LICENSE)
-[![Discord.js Version](https://img.shields.io/badge/discord.js-v12-green)]()
 [![Server POS](https://img.shields.io/badge/discord-discord.gg%2F3QVwskz-blue)](https://discord.gg/3QVwskz)
 [![Chat](https://img.shields.io/discord/336336077755252738)]()
 
